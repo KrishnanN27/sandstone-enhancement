@@ -1,0 +1,36 @@
+# Core ML & CV packages
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+xformers==0.0.23
+
+# App and interface
+gradio==3.50
+
+# Scientific computing
+scipy>=1.9.3
+numpy
+
+# Image handling & visualization
+opencv-python
+matplotlib
+pillow
+imageio
+
+# Data handling
+pandas
+
+# ML utils
+scikit-learn
+scikit-image
+timm
+lpips
+einops
+omegaconf
+albumentations
+loralib
+
+# Logging, progress, misc
+loguru
+six
+tqdm
