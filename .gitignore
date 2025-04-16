@@ -16,8 +16,8 @@ Thumbs.db
 
 # 📊 Output and generated content
 slices1/
-slices_small/
-results/
+# slices_small/
+# results/
 results_small/
 comparison_grid/
 comparison.gif
