@@ -54,19 +54,17 @@ See [`README_setup.md`](./README_setup.md) for full instructions on:
 
 ## 🔬 Results Snapshot
 
-### 📸 Scroll-through Comparison (click to open)
+### 📸 Scroll-through Comparison
 
 ![comparison](./comparison.gif)
 
-### 🖼️ Sample Side-by-Side Grids
+### 📁 More Visuals & Metrics
 
-(See [comparison_grid/](./comparison_grid) for full list)
+See [`README_results.md`](./README_results.md) for:
 
-| Input → Output  |
-| --------------- |
-| `slice_050.png` |
-| `slice_150.png` |
-| `slice_250.png` |
+- Original vs. Enhanced image comparisons
+- Full slice-by-slice PSNR & SSIM scores
+- Clean side-by-side visual layout
 
 ---
 
