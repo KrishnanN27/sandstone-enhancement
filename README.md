@@ -1,5 +1,3 @@
-## 📄 `README.md`
-
 # 🪨 Enhancing Sandstone Tomograms with ResShift (Diffusion-based Super-Resolution)
 
 This repo documents how I applied the [ResShift](https://github.com/zsyOAOA/ResShift) diffusion model to enhance 2D slices extracted from a 3D `.nc` tomogram of Bentheimer sandstone.

@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 input_dir = "slices_small"
-output_dir = "results_small"
+output_dir = "results"
 
 psnr_scores = []
 ssim_scores = []
