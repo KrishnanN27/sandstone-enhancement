@@ -20,7 +20,7 @@ slices1/
 # results/
 results_small/
 comparison_grid/
-comparison.gif
+# comparison.gif
 
 # 📁 NetCDF dataset
 tomo_R_SSw_SS_nc/

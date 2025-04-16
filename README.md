@@ -54,7 +54,7 @@ See [`README_setup.md`](./README_setup.md) for full instructions on:
 
 ## 🔬 Results Snapshot
 
-### 📸 Scroll-through Comparison
+### 📸 Comparison
 
 ![comparison](./comparison.gif)
 
